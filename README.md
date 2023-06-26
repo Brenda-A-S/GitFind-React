@@ -1,3 +1,17 @@
+# GitFind
+
+Projeto criado utilizando React consumindo a API do GitHub, onde buscamos um usuário e em seguida vemos um resumo sobre o mesmo, constando nome, nome de usuário, local, número de seguidores e seguidos, quantidade de repositórios públicos ou repositórios favoritados, listado com cards de resumo básico(nome e url).
+
+# Tecnologias utilizadas
+
+Utilizei HTML5, JavaScript, React, Axios, Styled-components e react-tabs.
+
+# Preview
+
+![brenda-a-s github io_GitFind-React_ (2)](https://github.com/Brenda-A-S/GitFind-React/assets/69852246/ea8997a4-fe39-4444-85a2-13618ce1de65)
+
+![brenda-a-s github io_GitFind-React_ (3)](https://github.com/Brenda-A-S/GitFind-React/assets/69852246/1f7632f2-1741-4341-b075-d7debde7739e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
